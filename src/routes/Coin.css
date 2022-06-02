@@ -81,7 +81,6 @@ th {
 @media screen and (max-width: 740px) {
     .coin-container .content {
         max-width: 100%;
-        max-width: 0.5rem;
         padding: 0 0.5rem;
     }
     .stats {
